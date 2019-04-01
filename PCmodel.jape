@@ -1,0 +1,26 @@
+Phase:	Computer
+Input: Token Lookup Numchar
+Options: control = appelt
+MACRO:SP
+({SpaceToken.kind==space})
+Macro: FAKE_GAZ
+(
+{Token.string=="MSI"}|{Token.string=="Asus"}|{Token.string=="Acer"}|{Token.string=="Lenovo"}
+)
+Macro: NUM_CHAR
+(
+{Token.orth==allCaps}|{Token.kind==number}|{Token.string=="-"}
+)+
+
+MACRO: UPPER_INITIAL
+({Token.string==~"[A-Z][a-zA-Z]+"})
+
+// extracts  e.g MSI GE75 Raider MSI GS65 Stealth
+Rule: PC1
+(FAKE_GAZ (UPPER_INITIAL)[0,2] {Numchar.kind=="numchar"} (UPPER_INITIAL)?): pc
+--> :pc.PCModel = {rule= "PC1" }
+
+
+//Rule: PC2
+//(FAKE_GAZ (UPPER_INITIAL)? NUM_CHAR(UPPER_INITIAL | NUM_CHAR)[0,4]): pc
+//--> :pc.PCModel = {rule= "PC2" }

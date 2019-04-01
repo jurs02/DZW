@@ -1,0 +1,222 @@
+MSI GE75 Raider
+By Charles Jefferies
+
+March 29, 2019 12:49PM EST
+March 29, 2019
+Editors' Rating:
+3.00
+good
+
+PCMag reviews products independently , but we may earn affiliate commissions from buying links on this page. Terms of use .
+
+Pros
+Ample 1080p gaming performance, as tested. Refreshed design with thin-bezel display. Good port selection. Loud speakers.
+
+Cons
+Display has 144Hz refresh rate, but doesn't support G-Sync. Super-short battery life. Some keyboard-layout quirks. Poor webcam.
+
+Bottom Line
+MSI's GE75 Raider slims down and adds performance oomph in this GeForce RTX-based iteration, but this gaming laptop's loud fans and lack of G-Sync reduce its appeal for discerning players.
+
+MSI's GE75 Raider (starts at $1,749; $2,999 as tested) is a high-end 17.3-inch gaming laptop . This model raises the bar over the outgoing GE73 Raider, integrating much-improved gaming performance into a sleeker design. A six-core processor and an Nvidia GeForce RTX 2080 graphics card in our topped-out tester have no trouble pushing triple-digit frames-per-second (fps) in today's AAA titles. Paired with a 1080p/144Hz display, this MSI makes an ideal platform for esports titles and other fast-action games. The performance leaves little room for complaint, but intrusive fan noise, a lack of Nvidia G-Sync support, and extremely brief battery life tarnish its appeal. Indeed, MSI's own GS75 Stealth , with a thinner and lighter design, way better battery, and near-identical gaming performance remains our top pick for a premium 17.3-inch gamer.
+
+Similar Products
+Alienware 17 R5
+at
+$1,559.99
+MSRP
+
+Lenovo Legion Y530
+at
+$949.99
+MSRP
+
+Origin PC EVO15-S
+at
+$1,615.00
+MSRP
+
+Razer Blade (2018)
+at
+$1,899.99
+MSRP
+
+Acer Predator Helios 300 (2018, 15-Inch)
+at
+$1,299.99
+MSRP
+
+Alienware m15
+at
+$1,299.00
+MSRP
+
+MSI GS65 Stealth Thin
+at
+$1,799.00
+MSRP
+
+Asus ROG Zephyrus S
+at
+$1,999.00
+MSRP
+
+MSI GT75 Titan 8RG
+at
+$2,799.00
+MSRP
+
+Acer Nitro 5 (2018, AMD Ryzen)
+at
+$699.99
+MSRP
+
+Time for a Makeover
+
+The GE75 Raider is second to MSI's flagship GT75 Titan in performance (and price); the GT75 packs a more powerful Intel Core i9-8950HK processor versus this tester's Intel Core i7-8750H. For a more portable option, the GS75 Stealth is just 0.75 inch thick and under five pounds, with less storage expansion the key trade-off. Meanwhile, the GL73 is the budget choice, offering up to GeForce RTX 2060 GPUs.
+
+View All 10 Photos in Gallery
+
+The new GE75 Raider went on a serious diet. At 1.1 by 15.7 by 10.6 inches (HWD), its measurements are trimmer in every dimension than the outgoing GE73 Raider. It's lighter, too, at just 5.8 pounds instead of 6.8 pounds.
+
+Much of the size and weight reduction is related to the thin-bezel display on the GE75 Raider, effectively making it not much larger than a 15.6-inch notebook with a thicker bezel. I'm all for this trend in notebook design, as it results in a cleaner look and improved portability. MSI was still able to fit the webcam on top of the display in its rightful place, which isn't a guarantee with notebooks that shrink the bezels. Alas, the camera's tiny sensor and low 720p resolution (I'd really like to see 1080p in the year 2019, please and thanks) make for muddy selfies, even in the best of lighting.
+
+MSI's backlit dragon shield logo and flanking, red-striped ridges on the lid ensure that the GE75 Raider is recognized as a gaming notebook from 50 paces...
+
+The look seems to strike a happy medium between too much and too little, fortunately without a side of polarizing design elements. It isn't as attention-grabbing as the likes of the audacious Alienware Area-51m , or some of Acer's Predator-branded gaming notebooks.
+
+On the materials front, MSI has moved away from the brushed-aluminum look it so often used on its premium gaming notebooks. The matte-finish aluminum on the GE75 Raider feels better-quality and is easier to clean. It's mostly for aesthetics, covering the lid backing and the top of the chassis. The chassis has minimal lateral flex despite its plastic framing. The fit and finish is good, with consistently minimal gaps between parts.
+
+Dig Those Colorful Keys
+
+The SteelSeries-designed keyboard on the GE75 Raider is a step above the similar-looking keyboards on less-expensive MSI gaming notebooks, like the GF63 8RD .
+
+This one offers per-key RGB (16.7-million-color) backlighting instead of single-color. Its membrane keys deliver friendly feedback via plenty of up-and-down travel, although the tactile feel isn't in the same league as the mechanical switches of the beefy MSI GT75 Titan. The keypresses on the GE75 Raider are much quieter, though.
+
+Gamers should have no issue with the keyboard layout on the GE75 Raider. Avid text editors, on the other hand, might take issue with things like the two-thirds-size number-pad keys, and the arrow keys not being separated into their own cluster. The lack of a left Windows key is deceptively off-putting, as the preinstalled MSI Dragon Center software allows you to swap the Fn (Function) key on the left with the Windows key functionality on the right, or just disable the Windows key entirely.
+
+I got around the lack of dedicated Home and End keys using the preinstalled SteelSeries Engine software, respectively mapping them to the seldom-used Scroll Lock and Pause Break keys. The software also allows you to create Fn-key combos...
+
+They're not as handy as dedicated macro keys, which the GE75 Raider lacks, but they are an innovative way to add functionality. The software can save your keyboard lighting and key settings in an unlimited number of profiles.
+
+Moving on, the spacious touchpad is of the traditional variety, with dedicated left- and right-click buttons...
+
+The buttons make a louder sound than I prefer when pressed. Gamers and other separate-mouse users will be glad to know the touchpad can easily be disabled (or re-enabled) by pressing Fn+F3.
+
+144Hz Is Refreshing...But Where's G-Sync?
+
+All GE75 Raider configurations include the same 17.3-inch display. Its combination of a 144Hz refresh rate and a 1080p (1,920-by-1,080-pixel) resolution is ideal for fast-paced esports titles.
+
+It's most unfortunate, then, that the display lacks support for Nvidia G-Sync technology, especially at the price range of our maxed-out test unit. (See our Best Graphics Cards for Apex Legends feature for the run-down on why monitors matter for esports.)
+
+Just about every other aspect of the display on the GE75 Raider earns a thumbs-up. The panel's in-plane switching (IPS) technology provides wide viewing angles, while the anti-glare surface nullifies reflections. The brightness and color are very good; MSI claims the panel covers 72 percent of the NTSC color gamut, which is well above the norm for a notebook display.
+
+Yes, Please: Light-Up USB Ports
+
+A feature I've seen (and would like to continue seeing) on MSI's gaming notebooks is illuminated USB Type-A ports...
+
+On this model, two of them reside on the left edge (both version 3.0), along with a full-size SD card reader and the power adapter's socket. (Kudos to MSI for using a full-size SD card reader, as opposed to microSD.) The USB ports' brightness can be changed or turned off in the MSI Dragon Center software. Another illuminated USB Type-A port sits on the left edge...
+
+It's joined by a cable-lockdown notch, a Killer E2500 Ethernet jack, HDMI 2.0b and mini-DisplayPort video-out connectors, a USB Type-C 3.1 port, and separate headphone and microphone jacks. Notice the large cooling exhaust vents on either side of the chassis.
+
+For wireless, the GE75 Raider uses a Killer 1550i card supporting the 802.11ac band. The preinstalled Killer Control Center software gives you some control over network traffic; for example, you can prioritize game-related traffic to help keep your latency consistent. Bluetooth 5 connectivity is also built-in.
+
+A Config Topped Out for Gaming
+
+The $2,999 GE75 Raider-023 configuration I'm testing is the top one of the GE75 Raider listed for availability in the US. I saw it discounted to $2,599 on Amazon as I was typing this. The six other configurations, which start at $1,749, share almost everything except the graphics chip, memory, and storage drive. The base model includes a GeForce RTX 2060 6GB GPU, 16GB of memory, and twin storage drives (a 256GB boot SSD, plus a 1TB hard drive). Our tester, meanwhile, tops out every specification with 32GB of memory, a GeForce RTX 2080 8GB graphics card, two 512GB SSDs in RAID 0 (which show up as a single drive in Windows), and a 2TB hard drive. The powerful Intel Core i7-8750H six-core processor I mentioned earlier is standard across configurations.
+
+I compared the GE75 Raider to the following gaming notebooks in our comparison charts...
+
+All except the 15.6-inch Acer Predator Triton 500 have a 17.3-inch display. Considering they share a Core i7-8750H processor and GeForce RTX 2080-based graphics, it's tempting to assume the performance of this lot won't vary all that much. The following benchmark results, though, will refute that. Let the showdown begin.
+Productivity, Storage, and Media Tests
+
+PCMark 10 and 8 are holistic performance suites developed by the PC benchmark specialists at UL (formerly Futuremark). The PCMark 10 test we run simulates different real-world productivity and content-creation workflows. We use it to assess overall system performance for office-centric tasks such as word processing, spreadsheet work, web browsing, and videoconferencing. The test generates a proprietary numeric score; higher numbers are better.
+
+PCMark 8, meanwhile has a Storage subtest that we use to assess the speed of the drive subsystem. This score is also a proprietary numeric score; again, higher numbers are better.
+
+Scores north of 5,000 points in PCMark 10 mean a seriously fast PC, where the MSI GE75 Raider seems to fit in just fine. I expected it might have outdone its competitors in the PCMark 8 Storage test, given it's running a pair of PCI Express SSDs in RAID 0, but it didn't seem to matter. The MSI GS75 Stealth scored in line here with the other units because the PCMark 8 Storage suite doesn't make much distinction between high-end SSDs. Scores in this range simply illustrate that, yes, you have a cutting-edge boot-drive situation.
+
+Next is Maxon's CPU-crunching Cinebench R15 test, which is fully threaded to make use of all available processor cores and threads. Cinebench stresses the CPU rather than the GPU to render a complex image. The result is a proprietary score indicating a PC's suitability for processor-intensive workloads.
+
+We also run a custom Adobe Photoshop image-editing benchmark. Using an early 2018 release of the Creative Cloud version of Photoshop, we apply a series of 10 complex filters and effects to a standard JPEG test image. We time each operation and, at the end, add up the total execution time. As with Handbrake, lower times are better here. The Photoshop test stresses CPU, storage subsystem, and RAM, but it can also take advantage of most GPUs to speed up the process of applying filters, so systems with powerful graphics chips or cards may see a boost.
+
+The Cinebench R15 test reveals unexpected inconsistency among these units, given that they all use the same Intel Core i7-8750H six-core chip. These processor-performance differences weren't apparent in the earlier PCMark 10 test. It's more than likely that power and/or thermal throttling is affecting them all to some degree. The smaller chassis of the Acer Predator Triton 500 means it has the least thermal headroom, potentially explaining its lower score. The Photoshop times, on the other hand, show an even playing field; that test doesn't demand as much of the CPU, and all these machines have plenty of memory (16GB or more) and fast SSD-based storage. This test also comprises a series of small steps with cooldowns between, meaning there isn't as much of a sustained thermal load as there is in Cinebench.
+Graphics Tests
+
+3DMark measures relative graphics muscle by rendering sequences of highly detailed, gaming-style 3D graphics that emphasize particles and lighting. We run two different 3DMark subtests, Sky Diver and Fire Strike, which are suited to different types of systems. Both are DirectX 11 benchmarks, but Sky Diver is more suited to laptops and midrange PCs, while Fire Strike is more demanding and made for high-end PCs to strut their stuff. The results are proprietary scores.
+
+Next up is another synthetic graphics test, this time from Unigine Corp. Like 3DMark, the Superposition test renders and pans through a detailed 3D scene and measures how the system copes. In this case, it's rendered in the company's eponymous Unigine engine, offering a different 3D workload scenario than 3DMark, for a second opinion on the machine's graphical prowess. We present two Superposition results, run at the 720p Low and 1080p High presets.
+
+The more resource-intense 3DMark Fire Strike benchmark is a head-scratcher for the MSI GE75 Raider. It uses a full-power variant of the GeForce RTX 2080 graphics card, not a Max-Q version like the rest of the group, but it performs no better. The Superposition test shows the GE75 dominating at the 1080p High preset, but that brief victory didn't follow it to our real-world gaming tests.
+Real-World Gaming Tests
+
+The synthetic tests above are helpful for measuring general 3D aptitude, but it's hard to beat full retail video games for judging gaming performance. Far Cry 5 and Rise of the Tomb Raider are both modern, high-fidelity titles with built-in benchmarks that illustrate how a system handles real-world video games at various settings.
+
+These games' benchmark tests are run on both the moderate and maximum graphics quality presets (Normal and Ultra for Far Cry 5, Medium and Very High for Rise of the Tomb Raider) at 1080p (and native resolution, if different) to judge performance for a given system. The results are also provided in frames per second. Far Cry 5 is DirectX 11 based, while Rise of the Tomb Raider can be flipped to DX12, which we do for the benchmark.
+
+Scoring near or over the triple-digit frames-per-second threshold in these titles is normally an accomplishment, but I expected more from the GE75 Raider. The thinner and lighter GS75 Stealth matches it in Rise of the Tomb Raider, and bests it in Far Cry 5. The non-Max-Q status of the GeForce RTX 2080 graphics card in the GE75 Raider doesn't seem to help it here.
+Video Playback Battery Rundown Test
+
+After fully recharging the laptop, we set up the machine in power-save mode (as opposed to balanced or high-performance mode) and make a few other battery-conserving tweaks in preparation for our unplugged video rundown test. (We also turn Wi-Fi off, putting the laptop in Airplane mode.) In this test, we loop a video—a locally stored 720p file of the Blender Foundation's open-source short film Tears of Steel —with screen brightness set at 50 percent and volume at 100 percent until the system conks out.
+
+The GE75 Raider takes the dubious trophy for shortest battery runtime I've seen in a while. I ran this test multiple times, even experimenting with different power plans outside our standard testing regimen, but the numbers were stubborn.
+
+I'd like to see at least three to four hours from a modern gaming laptop. As it stands, you'd be lucky to make it through a Hollywood flick without lugging around the GE75 Raider's rather bulky power adapter. Meanwhile, MSI's GS75 Stealth has fantastic battery life for a 17.3-inch gaming notebook.
+
+Under the Thermal Scope
+
+I subjected our GE75 Raider to a 20-minute run through the 3DMark Time Spy stress test, a time more than long enough to bring its interior components and outside surfaces up to temperature. I did my testing in a relatively cool room at 65 degrees F. Let's start with the thermal images, courtesy of a FLIR One Pro ...
+
+The temperature of the keyboard and surrounding surfaces peaked at 108 degrees F. Ideally, I'd like to see 100 degrees F or less, but there just aren't a whole lot of places for the heat to dissipate in a chassis like this. These temperatures won't hurt your hands, but they will feel hot.
+
+The underside shows similar temperatures...
+
+The purple/cool temperature squares near the bottom of the image are the intake vents for the two cooling fans inside the chassis, which you can see here...
+
+These fans always seemed to be running while I was using the notebook. Under gaming load or benchmark stress, the noise they make is intrusive. Think twice before trying to play games on the GE75 Raider anywhere quietness is valued; I wasn't the only one who could pick out its fans across a medium-size room.
+
+The fan noise isn't for naught, though. The Core i7-8750H processor topped out at 88 degrees C during the testing, which is under its maximum rated temperature. Meanwhile, the GeForce RTX 2080 reached only 76 degrees C. I'd consider that fine for any gaming notebook with a high-powered graphics processor, especially one that's on the thin side. Here's how the core frequency and temperature of the graphics card behaved during the stress test...
+
+The fluctuation in the core clock (the blue line) is largely a result of the GPU Boost 4.0 technology built into the GeForce RTX 2080, which dynamically adjusts the core clock based on power and thermal conditions. Both were favorable; the GeForce RTX 2080 variant in the GE75 Raider is rated for a base clock of 1,380MHz, and a boost clock of 1,590MHz, but it averaged 1,663MHz in this test. It's not uncommon for gaming notebooks to fail to dip into their boost clocks far (or at all) due to thermal restrictions, so MSI did a respectable job here of keeping the temperatures under control. The consistency in both the temperature and core clock is perhaps more important than anything, as the performance doesn't drop off over time.
+
+A Tempting Value, But at a Price
+
+The MSI GE75 Raider is, as far as pricey gaming notebooks go, a respectable value. The GeForce RTX 2080-based configurations start at $2,699, which is about the least you can expect to spend for a machine with that elite-class graphics chip. Our $2,999 tester was on sale for several hundred less online as this review was published, which is a lot of hardware for the money.
+
+That said, while our GE75 Raider performed fine in our tests, it didn't put up quite the performance pyrotechnics we expected. Despite its full-power GeForce RTX 2080 graphics card, it was matched or, in some cases, beaten by MSI's own thinner, lighter GS75 Stealth and its Max-Q variant of the GeForce RTX 2080. The GS75 Stealth also delivers far better battery life; the sub-two-hour time we clocked from the GE75 Raider is as short as any in recent memory.
+
+Loud fan noise further reduces the appeal of the GE75 Raider, though to its credit, its cooling solution did keep it running at acceptable temperatures while gaming. On the upside, the GE75 Raider offers better storage expansion than the GS75 Stealth (mainly, from the addition of a 2.5-inch bay) and is about $100 less expensive for a comparable configuration. Otherwise, the GE75 Raider is largely overshadowed by its thinner sibling, which remains our top pick for a premium 17.3-inch gaming notebook.
+MSI GE75 Raider
+good
+at
+
+Bottom Line: MSI's GE75 Raider slims down and adds performance oomph in this GeForce RTX-based iteration, but this gaming laptop's loud fans and lack of G-Sync reduce its appeal for discerning players.
+Other MSI Laptops & Notebooks
+MSI GS75 Stealth
+$2,099.00
+MSRP
+
+MSI GF63 8RD
+$899.00
+MSRP
+
+MSI GL63 8RC
+$899.00
+MSRP
+
+MSI GT75 Titan 8RG
+$2,799.00
+MSRP
+
+Read More
+Lenovo ThinkPad P72
+Laptops & Notebooks
+Lenovo ThinkPad P72
+Alienware Area-51m
+Laptops & Notebooks
+Alienware Area-51m
+
+About the Author
+Charles Jefferies
+
+Charles Jefferies is a native of the Philadelphia area who has been reviewing laptops and related hardware since 2005. A graduate of Rochester Institute of Technology, he enjoys all aspects of consumer and business tech, especially PCs, tablets, and photography. He works professionally as an HR payroll consultant and when not working can be found o... See Full Bio
