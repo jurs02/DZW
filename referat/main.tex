@@ -1,0 +1,48 @@
+\documentclass[a4,12pt]{article}
+\usepackage[czech]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx} %graphics files inclusion
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage[unicode]{hyperref}
+\usepackage{placeins}
+\usepackage{setspace}
+\let\Oldsection\section
+\renewcommand{\section}{\FloatBarrier\Oldsection}
+
+\let\Oldsubsection\subsection
+\renewcommand{\subsection}{\FloatBarrier\Oldsubsection}
+
+\let\Oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\FloatBarrier\Oldsubsubsection}
+\title{
+JAPE - týmový úkol\\
+\begin{spacing}{0.1}
+\noindent
+\rule{\linewidth}{0.3pt}\\\rule{\linewidth}{0.9pt}
+\end{spacing}
+\rule[75pt]{0pt}{0pt}
+}
+\author{Anastasiya Kiptsevich, Sára Juranková }
+\begin{document}
+
+\maketitle
+\newpage
+\tableofcontents
+
+\newpage
+\section{Úvod}
+
+\section{Trénovací dokumenty}
+
+\section{Principy gramatiky}
+\subsection{JoinTokens.jape}
+\subsection{Rozpoznávání modelů notebooků}
+\subsection{Rozpoznávání grafických karet}
+\subsection{Rozpoznávání procesorů}
+\section{Zhodnocení úspěšnosti}
+\subsection{Striktní hodnocení}
+\subsection{Fuzzy hodnocení}
+\section{Rozbor přepoužití}
+
+\end{document}

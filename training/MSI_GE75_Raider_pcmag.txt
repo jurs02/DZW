@@ -1,4 +1,147 @@
-MSI GE75 Raider
+MSI GE75 Raider Review & Rating | PCMag.com
+
+PCMagLogo.2016
+
+Reviews
+All Reviews
+Editors' Choice Reviews
+Camera Reviews
+Car Reviews
+Computer Mice Reviews
+Computer Monitor Reviews
+CPU Reviews
+Desktop Computer Reviews
+Drone Reviews
+Gaming Reviews
+Graphics Cards Reviews
+Headphone Reviews
+Health & Fitness Device Reviews
+Keyboard Reviews
+Laptop Reviews
+Mobile Phone Reviews
+Network Attached Storage (NAS) Reviews
+Printer Reviews
+Projector Reviews
+Router Reviews
+Scanner Reviews
+Security Software Reviews
+Smart Home Device Reviews
+Software Reviews
+Speaker Reviews
+Storage Reviews
+Streaming Device Reviews
+Tablet Reviews
+TV Reviews
+VoIP Reviews
+VPN Reviews
+VR (Virtual Reality) Reviews
+Wearable Device Reviews
+Web Hosting Reviews
+
+Best Picks
+All Categories
+Best Antivirus Software
+Best Cameras
+Best Cheap Laptops
+Best Computer Mice
+Best Desktops
+Best Drones
+Best Fitness Trackers
+Best Graphics Cards
+Best Hard Drives
+Best Headphones
+Best Keyboards
+Best Laptops
+Best Mobile Phones
+Best Monitors
+Best Printers
+Best Robot Vacuums
+Best Security Suites
+Best Smart Home Devices
+Best Smart Home Security Cameras
+Best Smart Home Security Systems
+Best Smart Speakers
+Best Smartwatches
+Best SSDs
+Best Streaming Devices
+Best Tablets
+Best TVs
+Best Video Streaming Services
+Best VoIP Services
+Best VPN
+Best VR (Virtual Reality) Headsets
+Best Web Hosting Services
+Best Wireless Routers
+Best Wireless Speakers
+
+How-To
+All Categories
+How to Build Your Smart Home
+How to Clear Cache
+How to Delete Your Facebook Account
+How to Download YouTube Videos
+How to Edit a PDF
+How to Hack Wi-Fi Passwords
+How to Set Up Two-Factor Authentication
+How to Set Up an Amazon Echo
+How to Set Up and Configure Your Wireless Router
+How to Set Up and Use a VPN
+How to Speed Up Windows
+How to Take a Screenshot
+Amazon Shopping Tips
+Android Tips
+Apple TV Tips
+Facebook Tips
+Gmail Tips
+Google Chrome Tips
+Google Chromecast Tips
+Google Search Tips
+Hidden iOS Tips
+Netflix Binge Watching Tips
+Roku Tips
+Wi-Fi Booster Tips
+
+News
+All News
+Features
+The Why Axis
+Opinions
+Fastest ISPs
+Fastest Mobile Networks
+Readers' Choice
+
+Smart Home
+Business
+All Categories
+Enterprise
+Small Business
+Business Choice
+Startup Spotlight
+IT and DevOps Tools
+IT Watch
+
+Shop
+Coupons
+PCMag Shop
+Deals
+
+Search
+Subscribe: Subscribe
+Email
+Search
+Search for Close
+
+Arrow_Path
+
+
+RIPAirPower
+GmailTips
+2019AppleiMac
+VerizonRobocall
+Raceto5G
+Subscribe Reviews /
+Laptops & Notebooks /
+Charles Jefferies MSI GE75 Raider MSI's GE75 Raider slims down and adds performance oomph in this GeForce RTX-based iteration, but this gaming laptop's loud fans and lack of G-Sync reduce its appeal for discerning players. MSI GE75 Raider
 By Charles Jefferies
 
 March 29, 2019 12:49PM EST
@@ -6,9 +149,14 @@ March 29, 2019
 Editors' Rating:
 3.00
 good
-
 PCMag reviews products independently , but we may earn affiliate commissions from buying links on this page. Terms of use .
-
+REVIEW
+Comments
+SPECS
+View Gallery
+View All 10 Photos in Gallery
+Starting Configuration Price
+$ 1749.00
 Pros
 Ample 1080p gaming performance, as tested. Refreshed design with thin-bezel display. Good port selection. Loud speakers.
 
@@ -19,54 +167,63 @@ Bottom Line
 MSI's GE75 Raider slims down and adds performance oomph in this GeForce RTX-based iteration, but this gaming laptop's loud fans and lack of G-Sync reduce its appeal for discerning players.
 
 MSI's GE75 Raider (starts at $1,749; $2,999 as tested) is a high-end 17.3-inch gaming laptop . This model raises the bar over the outgoing GE73 Raider, integrating much-improved gaming performance into a sleeker design. A six-core processor and an Nvidia GeForce RTX 2080 graphics card in our topped-out tester have no trouble pushing triple-digit frames-per-second (fps) in today's AAA titles. Paired with a 1080p/144Hz display, this MSI makes an ideal platform for esports titles and other fast-action games. The performance leaves little room for complaint, but intrusive fan noise, a lack of Nvidia G-Sync support, and extremely brief battery life tarnish its appeal. Indeed, MSI's own GS75 Stealth , with a thinner and lighter design, way better battery, and near-identical gaming performance remains our top pick for a premium 17.3-inch gamer.
-
 Similar Products
 Alienware 17 R5
+ 
 at
 $1,559.99
 MSRP
 
 Lenovo Legion Y530
+ 
 at
 $949.99
 MSRP
 
 Origin PC EVO15-S
+ 
 at
 $1,615.00
 MSRP
 
 Razer Blade (2018)
+ 
 at
 $1,899.99
 MSRP
 
 Acer Predator Helios 300 (2018, 15-Inch)
+ 
 at
 $1,299.99
 MSRP
 
 Alienware m15
+ 
 at
 $1,299.00
 MSRP
 
 MSI GS65 Stealth Thin
+ 
 at
 $1,799.00
 MSRP
 
 Asus ROG Zephyrus S
+ 
 at
 $1,999.00
 MSRP
 
 MSI GT75 Titan 8RG
+ 
 at
 $2,799.00
 MSRP
 
 Acer Nitro 5 (2018, AMD Ryzen)
+ 
 at
 $699.99
 MSRP
@@ -191,20 +348,25 @@ good
 at
 
 Bottom Line: MSI's GE75 Raider slims down and adds performance oomph in this GeForce RTX-based iteration, but this gaming laptop's loud fans and lack of G-Sync reduce its appeal for discerning players.
+Top
 Other MSI Laptops & Notebooks
 MSI GS75 Stealth
+ 
 $2,099.00
 MSRP
 
 MSI GF63 8RD
+ 
 $899.00
 MSRP
 
 MSI GL63 8RC
+ 
 $899.00
 MSRP
 
 MSI GT75 Titan 8RG
+ 
 $2,799.00
 MSRP
 
@@ -215,8 +377,105 @@ Lenovo ThinkPad P72
 Alienware Area-51m
 Laptops & Notebooks
 Alienware Area-51m
-
 About the Author
 Charles Jefferies
 
 Charles Jefferies is a native of the Philadelphia area who has been reviewing laptops and related hardware since 2005. A graduate of Rochester Institute of Technology, he enjoys all aspects of consumer and business tech, especially PCs, tablets, and photography. He works professionally as an HR payroll consultant and when not working can be found o... See Full Bio
+More From Charles
+
+Digital Storm Lynx
+
+Nvidia GeForce RTX 2060 Founders Edition
+
+MSI GeForce RTX 2060 Ventus OC Edition
+
+AMD Radeon VII
+
+HP Omen Obelisk
+
+See More
+Comments
+Login or Register
+Please enable JavaScript to view the comments powered by Disqus. blog comments powered by Disqus
+MSI GE75 Raider
+MSI GE75 Raider
+good
+Get Our Best Stories!
+
+Subscribe to What's New Now
+Email Sign Up
+This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy . You may unsubscribe from the newsletters at any time.
+Most Popular Stories
+How Google's Jigsaw Is Trying to Detoxify the Internet
+
+12 Google Calendar Tricks You're Probably Not Using
+
+9 Easy Ways to Make Your Android Phone Less Annoying
+
+How to Block Robocalls and Spam Calls
+
+The 50 Best iPad Games
+
+How to Call Someone From Your Amazon Echo
+
+See More
+Related Reviews
+Dell XPS 13 (9380)
+
+Apple MacBook Pro 15-Inch (2018)
+
+HP EliteBook x360 1030 G3
+
+Huawei MateBook X Pro
+
+The Best Laptops for 2019
+
+Discover
+20 Hidden Chrome Features That Will Make Your Life Easier
+
+Every Episode of Black Mirror, Ranked From Best to Worst
+
+24 Things You Didn't Know Your Chromecast Could Do
+
+See More
+Facebook
+Twitter
+Instagram
+Pinterest
+LinkedIn
+YouTube
+Google News
+Flipboard
+About Us
+PCMag Digital Edition
+Newsletters
+Encyclopedia
+RSS Feed
+More From Ziff Davis:
+Mashable
+ExtremeTech
+Geek
+AskMen
+BestGifts.com
+Everyday Health
+IGN
+Offers.com
+Speedtest.net
+TechBargains
+Toolbox
+What to Expect
+RSS Feeds
+Site Map
+Contact Us
+Privacy Policy
+
+Terms of Use
+Advertise
+Accessibility Statement
+
+Â© 1996-2019 Ziff Davis, LLC. PCMag Digital Group
+PC, PC Magazine and PC PCMag.com are among the federally registered trademarks of
+Ziff Davis, LLC and may not be used by third parties without explicit permission.
+
+We strongly encourage you to read our updated PRIVACY POLICY and COOKIE POLICY .
+×
