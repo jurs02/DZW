@@ -4,13 +4,13 @@ Options: control = appelt
 
 Rule: JoinT1
 (
-({Token.orth==allCaps})*
+({Token.string=~"[a-zA-Z]"})*
 ({Token.kind==number})+
-({Token.orth==allCaps}|{Token.kind==number}|{Token.string=="-"})*
+({Token.string=~"[a-zA-Z]"}|{Token.kind==number}|{Token.string=="-"}|{Token.string=="\""})*
 ):left
 -->
 {AnnotationSet toRemove = bindings.get("left");
-  outputAS.removeAll(toRemove);
+  //outputAS.removeAll(toRemove);
    ArrayList tokens = new ArrayList(toRemove);
   //define a comparator for annotations by start offset
   Collections.sort(tokens, new OffsetComparator());

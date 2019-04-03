@@ -55,6 +55,7 @@ org_key_cap.lst:org_key:cap
 org_pre.lst:org_pre
 org_spur.lst:spur
 organization.lst:organization:other
+pc_brands.lst:brand:pc
 percent.lst:percent
 person_ending.lst:person_ending
 person_female.lst:person_first:female
