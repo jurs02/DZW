@@ -1,0 +1,49 @@
+Phase:	PC_Model
+Input: Token Lookup Numchar Split Control
+Options: control = appelt
+
+Macro: PC_BRAND
+({Lookup.majorType==brand,Lookup.minorType==pc})
+
+
+//To match even both upperInitial and mixedCaps
+MACRO: UPPER_INITIAL
+({Token.string==~"[A-Z][a-zA-Z]*"})
+MACRO: UPPER_INITIAL_DASH
+({Token.string==~"[A-Z][a-zA-Z-]*"})
+
+Rule: PC1
+(PC_BRAND (UPPER_INITIAL)[0,2] {Numchar.kind=="numchar"} ({Token.string==~"[A-Z][a-zA-Z]+",Token.category==NNP}|{Numchar.kind=="numchar"})[0,2]): pc
+--> :pc.Model = {rule= "PC1", string = :pc@cleanString }
+
+Phase: Model_Clean
+Input: Model
+Rule: Clean 
+({Model.string=~"(.*Windows.*)|(.*MacOS.*)|(.*GeForce.*)"}): del
+-->{
+AnnotationSet toRemove = bindings.get("del");
+  outputAS.removeAll(toRemove);
+}
+
+
+Phase: GPU
+Input: Token Lookup Numchar Split 
+Options: control = appelt
+
+Rule: GPU1
+({Token.string=~"[A-Z][a-zA-Z]+"}|{Numchar})[3,5]:gpu
+(({Token.string=="graphics"}{Token.string=="card"})|
+({Token.string=="GPU"}))
+--> :gpu.GPU = {rule = "GPU1"}
+
+Rule: GPU_NVIDIA
+(({Token.string==NVIDIA}| {Token.string==Nvidia})(UPPER_INITIAL)[1,2] {Numchar} (UPPER_INITIAL_DASH)?):gpu
+-->:gpu.GPU = {rule = "GPU_NVIDIA",brand="NVIDIA"}
+
+Rule: GPU_AMD
+({Token.string==AMD} (UPPER_INITIAL|{Numchar})[1,2]{Numchar}):gpu
+-->:gpu.GPU = {rule = "GPU_AMD",brand="AMD"}
+
+Rule: GPU_Intel
+({Token.string==Intel} (UPPER_INITIAL)[0,2]{Token.string=~"[Gg]raphics"} (UPPER_INITIAL)[0,2]{Numchar}):gpu
+-->:gpu.GPU = {rule = "GPU_Intel",brand="Intel"}

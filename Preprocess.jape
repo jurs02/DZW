@@ -1,4 +1,4 @@
-Phase:	JoinTokens
+Phase:	Preprocess
 Input: Token SpaceToken
 Options: control = appelt
 
@@ -10,7 +10,7 @@ Rule: JoinStringsWithNumbers
 ):left
 -->
 {AnnotationSet toRemove = bindings.get("left");
-  //outputAS.removeAll(toRemove);
+  outputAS.removeAll(toRemove);
    ArrayList tokens = new ArrayList(toRemove);
   //define a comparator for annotations by start offset
   Collections.sort(tokens, new OffsetComparator());
@@ -25,22 +25,6 @@ Rule: JoinStringsWithNumbers
 outputAS.add(toRemove.firstNode(), toRemove.lastNode(), "Numchar", features);
 }
 
-Rule: JoinStringsWithDash
-(({Token.string=~"[a-zA-Z]+-"})
-({Token.string=~"[a-zA-Z-]"})+):left
--->
-{AnnotationSet toRemove = bindings.get("left");
-  //outputAS.removeAll(toRemove);
-   ArrayList tokens = new ArrayList(toRemove);
-  //define a comparator for annotations by start offset
-  Collections.sort(tokens, new OffsetComparator());
-  String text = "";
-  Iterator tokIter = tokens.iterator();
-  while(tokIter.hasNext())
-    text += (String)((Annotation)tokIter.next()).getFeatures().get("string");
-    FeatureMap features = Factory.newFeatureMap();
-	features.put("kind", "dashstring");
-  features.put("string", text);
-  features.put("length", Integer.toString(text.length()));
-outputAS.add(toRemove.firstNode(), toRemove.lastNode(), "DashString", features);
-}
+Rule: SetInputControl
+({SpaceToken.kind=="control"}):control
+-->:control.Control = {}

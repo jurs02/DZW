@@ -1,0 +1,117 @@
+Dell XPS 13 (2019) review: 
+We've finally run out of complaints
+
+The Good Dell has fixed this laptop's only remaining serious flaw, designing a super-slim 2mm webcam to fit into the thin screen bezel. Optional colors look great, as does the 4K touchscreen. Excellent keyboard, and decent battery life for a 4K laptop.
+
+The Bad The entry level configuration, while well-priced, cuts too many corners. I don't love the woven texture on the wrist rest.
+
+The Bottom Line It's nearly impossible to find anything to dislike about this 13-inch slim powerhouse, at least in the pricey high-end configuration tested here.
+
+Editors' note, March 28: After this review was published, Dell managed to address one of my few remaining complaints by adding an option for a 1,920x1,080-pixel touchscreen, now available as a $100 add-on to the base model. The previously published review from March 20 follows -- including those reservations. We'll revisit it in the coming days.
+
+For years, the Dell XPS 13 was one of my go-to recommendations for a general-use slim Windows laptop. But it shared that list with equally good machines from HP, Acer and others. A handful of things kept it from being as universally useful as it should have been. Over the years, the size and weight had fallen behind the competition, and the slim screen bezels led to some unflattering webcam compromises. 
+
+The 2019 version, however, is another story. 
+
+I had to look long and hard to find anything I didn't like about the 2019 Dell XPS 13. Pressed to come up with a list, I'd say the woven glass fiber palm rest doesn't look or feel as high-end as it should. The white backlight shining through white keys (on the white and rose gold versions) sometimes makes it harder to see the keys, not easier. I originally complained that in order to get a touchscreen model you have to trade up to a 4K display (which is more expensive and not as battery-friendly), but since then, Dell has added a 1,920x,1,080-pixel touchscreen option, so you can cross one more thing off my list. 
+
+Other than that, with this latest version of the XPS 13, Dell has done nearly the impossible -- it's made a laptop I can find almost no fault with. Since Dell introduced ultrathin screen borders in its 2015 model (the XPS 13 has been around since 2012), the company has steadily been chipping away at my laundry list of complaints, making the XPS 13 smaller, lighter, more powerful. The 2018 model got the size and weight down, and now for 2019, the most critical remaining issue has been taken care of. 
+
+The nose job
+The system's biggest knock has long been its webcam. Because of the very thin screen border (also called a bezel), the webcam had been relegated to a spot below the screen, rather than above it. That led to an unflattering up-the-nose angle that made the XPS 13 less useful for Skype calls, YouTube videos or any other video-recording or streaming needs.
+
+After years of saying it was a problem impossible to solve while maintaining the thin bezel look, Dell has gone ahead and solved it. The new webcam somehow fits into that very slim top border, thanks to a new lens design that's only 2.5mm high. That adds a hair to the width of the top screen border, but it's a fair trade-off.
+
+Even a few initial test shots show that the angle is much more natural, and the image is clear and noise-free. Both video and photo top out at 720p resolution, and if pressed, I'd prefer to see full 1,920x1,080 HD. But compared with a photo snapped from the previous-generation XPS 13, the difference is clear.
+
+¨A familiar path for plugs 
+If you're one of those people bothered by the rapid shift to USB-C in laptops at the expense of nearly every other type of port, well, the tide doesn't look like it's turning back anytime soon. Three USB-C ports here handle all the heavy lifting, including power, but two of them are also Thunderbolt ports for hooking up high-speed peripherals. 
+
+There's still a microSD card slot, which is something of a rarity these days. That's especially useful because the less expensive configurations include only 128GB of SSD storage, so at least you can shoehorn in some more hard drive space. The MacBook Air used to have an SD card slot, often used for the same reason. That, sadly, is no more. 
+
+The price is (mostly) right
+If you were going to bid on this slim design with a high-end aluminum/carbon fiber body, multiple Thunderbolt ports, and nearly edge-to-edge screen in a Showcase Showdown, you could easily overbid. The new XPS 13 starts at $899, or $300 less than the base model MacBook Air ($1,100 at Amazon). UK prices start at £939, and a higher $2,069 in Australia. 
+
+But keep in mind the entry-level model loses some important features. The FHD (full HD, or 1,920x1,080) display is nontouch. The processor is a lower-end U-series Intel Core i3, and the 4GB of RAM and 128GB SSD don't feel especially future-proof, or even today-proof for some users. 
+
+It's an absolute no-brainer to kick in an extra $100 to get you up to a current-gen Intel Core i5, which is the mainstream sweet spot. Upgrading to 8GB of RAM and a 256GB hard drive is currently $1,209, making it a closer match to the latest MacBook Air, and probably the best value configuration. 
+
+Our higher-end review unit has the touchscreen 4K display, a Core i7 CPU, 16GB of RAM and a 512GB SSD, which is currently $1,850. Yes, the white or rose gold color options are an extra $50. Seems a bit nitpicky for an $1,800 laptop; they should throw the color option in at that price.
+
+Dell XPS 13 (2019)
+Price as reviewed	$1,709
+Display size/resolution	13.3-inch 3,820 x 2,160 touch display
+CPU	1.8GHz Intel Core i7-8565U
+PC memory	16GB DDR4 SDRAM 2,133MHz
+Graphics	Intel UHD Graphics 620
+Storage	512GB SSD
+Networking	802.11ac Wi-Fi Bluetooth 4.1
+Operating system	Windows 10 Home (64-bit)
+
+Colorful combos
+Even talking about laptop color options can be a minefield. No matter how much consumer design advances elsewhere, most laptops are still somewhere on the gray-to-silver spectrum, and nothing seems to change that. You'll occasionally find black, or a couple of candy-colored red, blue or what-have-you options, usually on plasticky budget laptops for students. It's only in the past few years that we've seen more high-end laptop color options, led by color additions to MacBooks ($1,199 at Amazon) (in silver, gray and rose gold) and systems like the HP Spectre and Surface Laptop.
+
+The white and rose-gold versions of the XPS 13 will definitely turn a few heads at your local coffee shop. The look is clean and minimalist, and the back of the lid has a matte, almost ceramic-like finish. My one aesthetic issue is the woven glass fiber/carbon fiber palm rest. It's strong, light and made of premium materials, but it also looks and feels like plastic (according to the initial impressions of a few people who have seen the system without knowing its backstory).
+
+It's not a deal breaker, and one of only a small handful of complaints I could muster about this otherwise fantastic laptop, but for these prices, you should be absolutely happy with the design.
+
+One other interesting design footnote shows us this is a laptop people pay attention to. WaterField Designs, one of the better maker of laptop and tech bags and and accessories has a leather and waxed canvas sleeve made specially to fit this 2019 version of the Dell XPS 13. It's $69, with a surprising supple padded interior. 
+
+Pixels vs. battery
+The display is really a standout feature on the XPS 13. Of course, it's designed to literally stand out, with screen bezels only a few millimeters wide on three sides, allowing the very bright, rich 4K display to go nearly edge to edge. It's a laptop for video watchers, designers or anyone else wanting to get a really bold visual experience. With an Intel Core i7 CPU (in this higher-end model), running powerful software like Photoshop or Illustrator is no problem.
+
+But there's often a price to pay -- in our testing, we've historically found that 4K displays result in much shorter battery life than similar configurations with only a standard full HD display. The difference can sometimes be measured in hours. For a laptop this thin and light, and clearly intended for travel, that can be a big deal. 
+
+In this case, the XPS 13 did very well for a 4K laptop, running for 8 hours, 29 minutes on our streaming video battery test. a non-4K version of the 2018 XPS 13 ran for a bit more than 12 hours, an we'd expect a similar result for this year's 1,920x,1080 model. 
+
+When in doubt, I generally suggest picking a 1080 screen over a 4K one, although I'm also in favor of touch as an option where available. The FHD battery gains are usually worth it, as 4K on a 13-inch laptop screen is overkill for mainstream users.
+
+Winner's circle 
+The Dell XPS 13 has joined the recent MacBook Air redesign as a classic laptop favorite that has leap-frogged its way back to the front of the pack. You can find the same components in other laptops at similar prices, but few can match the XPS 13 for its near-perfect combination of size, slim bezel, processing power, great design and excellent keyboard, plus a wide range of price options. 
+
+Will another shiny new super-thin laptop come along and steal my eye, like that distracted boyfriend meme? No doubt (I'm looking at you, Acer Swift 7), but for now, this is going to be the 13-inch Windows laptop I suggest you start from when shopping for a new system. 
+
+Geekbench 4 (multicore)
+Dell XPS 13 (2019)
+13,833
+Dell XPS 13 (2018)
+12,961
+Lenovo Ideapad 730S
+12,905
+Microsoft Surface Laptop 2
+11,983
+Apple MacBook Air (13-inch, 2018)
+7,870
+NOTE: Longer bars indicate better performance
+Cinebench R15 CPU (multi-core)
+Dell XPS 13 (2019)
+738
+Microsoft Surface Laptop 2
+589
+Dell XPS 13 (2018)
+568
+Lenovo Ideapad 730S
+537
+Apple MacBook Air (13-inch, 2018)
+253
+NOTE: Longer bars indicate better performance
+Video playback battery drain test (Streaming)
+Microsoft Surface Laptop 2
+671
+Apple MacBook Air (13-inch, 2018)
+646
+Dell XPS 13 (2018)
+548
+Dell XPS 13 (2019)
+509
+Lenovo Ideapad 730S
+488
+NOTE: Longer bars indicate better performance (in minutes)
+
+System configurations
+Dell XPS 13 (2019)	Microsoft Windows 10 Home (64-bit); 1.8GHz Intel Core i7-8565U; 16GB DDR4 SDRAM 2,133MHz; 128MB (dedicated) Intel HD Graphics 620; 512GB SSD
+Lenovo Ideapad 730S	Microsoft Windows 10 Home (64-bit); 1.6GHz Intel Core i5-8265U; 8GB DDR3 SDRAM 2,400MHz; 128MB dedicated Intel UHD Graphics 620; 256GB
+Apple MacBook Air (13-inch, 2018)	Apple MacOS Mojave 10.14; 1.6GHz Intel Core i5-8210Y; 8GB DDR3 SDRAM 2,133MHz; 1,536MB Intel UHD Graphics 617; 256GB SSD
+Dell XPS 13 (2018)	Microsoft Windows 10 Home (64-bit); 1.8GHz Intel Core i7-8550U; 8GB DDR4 SDRAM 1,866MHz; 128MB (dedicated) Intel HD Graphics 620; 256GB SSD
+Microsoft Surface Laptop 2	Microsoft Windows 10 Home (64-bit); 1.6GHz Intel Core i5-8250U; 8GB DDR4 SDRAM 1,866MHz; 128MB dedicated Intel UHD Graphics 620; 256GB
+Acer Swift 7	Microsoft Windows 10 Home (64-bit); 1.3GHz Intel Core i7-7Y75; 8GB DDR3 SDRAM 1,866MHz; 128MB dedicated Intel HD Graphics 615; 256GB SSD

@@ -1,0 +1,59 @@
+\documentclass[a4,12pt]{article}
+\usepackage[czech]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx} %graphics files inclusion
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage[unicode]{hyperref}
+\usepackage{placeins}
+\usepackage{setspace}
+\let\Oldsection\section
+\renewcommand{\section}{\FloatBarrier\Oldsection}
+
+\let\Oldsubsection\subsection
+\renewcommand{\subsection}{\FloatBarrier\Oldsubsection}
+
+\let\Oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\FloatBarrier\Oldsubsubsection}
+\title{
+JAPE - týmový úkol\\
+\begin{spacing}{0.1}
+\noindent
+\rule{\linewidth}{0.3pt}\\\rule{\linewidth}{0.9pt}
+\end{spacing}
+\rule[75pt]{0pt}{0pt}
+}
+\author{Anastasiya Kiptsevich, Sára Juranková }
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\newpage
+\section{Cíl projektu}
+Cílem našeho projektu bylo vytvořit gramatiku extrahující z textů název modelu notebooku, procesoru a  grafické karty.
+\section{Trénovací dokumenty}
+Do trénovací skupiny dokumentů byly zařazeny tři dokumenty:
+\begin{itemize}
+\item Recenze notebooku MSI GE75 Raider na \href{https://www.pcmag.com/review/367363/msi-ge75-raider}{\texttt{www.pcmag.com}}
+\item Stránka notebooku Acer Aspire E 15 na \href{https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/dp/B079TGL2BZ/}{\texttt{www.amazon.com}}
+\item Stránka notebooku HP Stream na \href{https://www.ebay.com/itm/NEW-HP-Stream-14-Laptop-Celeron-N3060-4GB-RAM-32GB-SSD-Windows-10/323484448208?var=512535004668&fbclid=IwAR1-YBPLIUAlaY6gOSYBQOsmyb3mCOY8J6BuRLOxIC3l2n_n4U44I_ixgeI}{\texttt{www.ebay.com}}
+\end{itemize}
+Tyto tři dokumenty byly vybrány protože reprezentují typické webové stránky jejichž obsah je zaměřen na poskytování informací o noteboocích. Recenze je příklad volnějšího textu, spravujícího o vlastnostech notebooku, další příklady jsou stránky eshopů, které často poskytují informace ve strukturovanější podobě (výčet specifikací modelu). 
+
+\section{Principy gramatiky}
+\subsection{JoinTokens.jape}
+Cílem gramatiky v JoinTokens.jape je předzpracování tokenů pro další extrakci. Názvy notebooků, CPU a GPU často obsahují alfanumerické řetězce (případně ještě doplněné o pomlčky). \texttt{ANNIE English Tokenizer} v programu GATE ovšem tyto řetězce rozděluje, například \uv{MSI GE75} bude rozděleno na posloupnost tří tokenů: \uv{MSI} \uv{GE} \uv{75}. Z pohledu extrakčních gramatik je ovšem žádoucí pracovat nad celými alfanumerickými řetězci, tato gramatika tedy řetězec \uv{GE75} spojí do jednoho tokenu.
+\subsection{Rozpoznávání modelů notebooků}
+Gramatika rozpoznávající název modelu notebooku nepracuje s žádným kontextem, v rámci trénovací množiny dokumentů nebyl společný kontext nalezen (s výjimkou možného levého kontextu \uv{Model:} v dokumentu ze stránky ebay, takovýto kontext ovšem pokládáme za nedostatečně specifický). 
+
+Místo toho tedy hledá sekvence tokenů začínající nějakou známou značkou výrobce notebooků. Tyto značky jsou definované v gazetteeru \texttt{pc\_brands.lst}. Dále tato sekvence musí obsahovat minimálně jeden alfanumerický řetězec, který je případně obklopený omezeným počtem tokenů začínajících na velké písmeno.
+\subsection{Rozpoznávání grafických karet}
+
+\subsection{Rozpoznávání procesorů}
+\section{Zhodnocení úspěšnosti}
+\subsection{Striktní hodnocení}
+\subsection{Fuzzy hodnocení}
+\section{Rozbor přepoužití}
+
+\end{document}
