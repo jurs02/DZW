@@ -39,7 +39,7 @@ Do trénovací skupiny dokumentů byly zařazeny tři dokumenty:
 \item Stránka notebooku Acer Aspire E 15 na \href{https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/dp/B079TGL2BZ/}{\texttt{www.amazon.com}}
 \item Stránka notebooku HP Stream na \href{https://www.ebay.com/itm/NEW-HP-Stream-14-Laptop-Celeron-N3060-4GB-RAM-32GB-SSD-Windows-10/323484448208?var=512535004668&fbclid=IwAR1-YBPLIUAlaY6gOSYBQOsmyb3mCOY8J6BuRLOxIC3l2n_n4U44I_ixgeI}{\texttt{www.ebay.com}}
 \end{itemize}
-Tyto tři dokumenty byly vybrány protože reprezentují typické webové stránky jejichž obsah je zaměřen na poskytování informací o~noteboocích. Recenze je příklad volnějšího textu, spravujícího o~vlastnostech notebooku, další příklady jsou stránky eshopů, které často poskytují informace ve strukturovanější podobě (výčet specifikací modelu). 
+Tyto tři dokumenty byly vybrány, protože reprezentují typické webové stránky, jejichž obsah je zaměřen na poskytování informací o~noteboocích. Recenze je příklad volnějšího textu, spravujícího o~vlastnostech notebooku, další příklady jsou stránky e-shopů, které často poskytují informace ve strukturovanější podobě (výčet specifikací modelu). 
 
 \section{Principy gramatiky}
 \subsection{Preprocess.jape}
@@ -49,17 +49,17 @@ Dále obsahuje pravidlo které detekuje SpaceToken typu control a anotuje jej ja
 
 \textbf{Využité prvky:} regulární výrazy nad řetězci, token.kind + token.string, opakování (?,+,*), disjunkce
 \subsection{Rozpoznávání modelů notebooků}
-Gramatika rozpoznávající název modelu notebooku nepracuje s~žádným kontextem, v~rámci trénovací množiny dokumentů nebyl společný kontext nalezen (s~výjimkou možného levého kontextu \uv{Model:} v~dokumentu ze stránky ebay, takovýto kontext ovšem pokládáme za nedostatečně specifický). 
+Gramatika rozpoznávající název modelu notebooku nepracuje s~žádným kontextem, v~rámci trénovací množiny dokumentů nebyl společný kontext nalezen (s~výjimkou možného levého kontextu \uv{Model:} v~dokumentu ze stránky ebay, takový kontext ovšem pokládáme za nedostatečně specifický). 
 
 Místo toho tedy hledá sekvence tokenů začínající nějakou známou značkou výrobce notebooků. Tyto značky jsou definované v~gazetteeru \texttt{pc\_brands.lst}. Dále tato sekvence musí obsahovat minimálně jeden alfanumerický řetězec, který je případně obklopený omezeným počtem tokenů začínajících na velké písmeno.
 
-Druhé pravidlo v~rámci fáze slouží k~odstranění anotací u~chybně detekovaných řetězců. Například firma Microsoft vyrábí notebooky, ale i operační systém Windows. Pokud tedy detekovaný název notebooku obsahuje \uv{Windows}, je tato anotace odstraněna.
+Další fáze slouží k~odstranění anotací u~chybně detekovaných řetězců. Například firma Microsoft vyrábí notebooky, ale i operační systém Windows. Pokud tedy detekovaný název notebooku obsahuje \uv{Windows}, je tato anotace odstraněna.
 
 \textbf{Využité prvky:} gazetteer, regulární výrazy nad řetězci, značky POS, opakování ([n,m]), disjunkce, oddělovače vět 
 \subsection{Rozpoznávání grafických karet}
 Gramatika sloužící k~rozpoznávání GPU obsahuje pravidla pro tři hlavní značky grafických karet notebooků: NVIDIA, AMD a Intel. Pravidlo pro každou z~těchto značek je odvozené ze seznamu názvů grafických karet, kde se hledaly společné znaky a sekvence řetězců.
 
-Dále je do gramatiky zařazené obecnější pravidlo, využívajícího pravého kontextu \uv{graphics card}. Za GPU bude označený předcházející text o~3-5 tokenech, skládající se z~tokenů začínajících na velké písmeno, nebo skládajících se z~alfanumerických znaků (s~případnou pomlčkou).
+Dále je do gramatiky zařazené obecnější pravidlo, využívajícího pravého kontextu \uv{graphics card} nebo \uv{GPU}. Za GPU bude označený předcházející text o~3-5 tokenech, skládající se z~tokenů začínajících na velké písmeno, nebo skládajících se z~alfanumerických znaků (s~případnou pomlčkou).
 
 \textbf{Využité prvky:} regulární výrazy nad řetězci, opakování ([n,m]), disjunkce, oddělovače vět 
 
@@ -68,9 +68,9 @@ Dále je do gramatiky zařazené obecnější pravidlo, využívajícího pravé
 \section{Zhodnocení úspěšnosti}
 \subsection{Striktní hodnocení}
 \subsubsection{Modely Notebooků}
-V~dokumentu \texttt{Dell\_XPS\_cnet.txt} bylo úspěšně nalezeno 24 modelů, neúspěšně 17 , žádné nebyly nalezené navíc. Přesnost je tedy 100 \%, úplnost 58,5 \%.
+V~dokumentu \texttt{Dell\_XPS\_cnet.txt}  \footnote{\url{https://www.cnet.com/reviews/dell-xps-13-2019-review/}} bylo úspěšně nalezeno 24 modelů, neúspěšně 17 , žádné nebyly nalezené navíc. Přesnost je tedy 100 \%, úplnost 58,5 \%.
 
-V~souboru \texttt{top10\_laptopunderbudget.txt} byla striktní úspěšnost mírně horší. 47 Modelů bylo nalezeno úspěšně, 35 neúspěšně a opět žádné navíc. Přesnost je tedy opět 100 \%, úplnost 57,3 \%.
+V~souboru \texttt{top10\_laptopunderbudget.txt} \footnote{\url{https://laptopunderbudget.com/best-i7-laptops/?fbclid=IwAR2KiCCaYLWTOp6I_w7XGTB7QjWgOO9Y7-nEXxj_E14G_R3TTX7IuHqc0To}} byla striktní úspěšnost mírně horší. 47 Modelů bylo nalezeno úspěšně, 35 neúspěšně a opět žádné navíc. Přesnost je tedy opět 100 \%, úplnost 57,3 \%.
 
 \subsubsection{Grafické karty}
 V~dokumentu \texttt{Dell\_XPS\_cnet.txt} byla přesnost i úplnost 100 \%.
@@ -78,7 +78,7 @@ V~dokumentu \texttt{Dell\_XPS\_cnet.txt} byla přesnost i úplnost 100 \%.
 V~dokumentu \texttt{top10\_laptopunderbudget.txt} se úspěšně našlo 20 názvů GPU, neúspěšně 5, žádné navíc. Přesnost je 100 \%, úplnost 83 \%.
 \subsection{Fuzzy hodnocení}
 \subsubsection{Modely Notebooků}
-Ve většině případů v~dokumentu \texttt{Dell\_XPS\_cnet.txt} kdy nebyla entita rozpoznána se jednalo o~neúplný název (např. \uv{the XPS 13} místo \uv{Dell XPS 13}. Pouze čtyři nerozeznané výskyty obsahovaly všechny potřebné informace (čtyřikrát \uv{Apple MacBook Air(13-inch, 2018)}). Pokud by podmínkou bylo vyhledávat pouze kompletní názvy, stoupla by úplnost na 85,7 \%.
+Ve většině případů v~dokumentu \texttt{Dell\_XPS\_cnet.txt}, kdy nebyla entita rozpoznána, se jednalo o~neúplný název (např. \uv{the XPS 13} místo \uv{Dell XPS 13}. Pouze čtyři nerozeznané výskyty obsahovaly všechny potřebné informace (čtyřikrát \uv{Apple MacBook Air(13-inch, 2018)}). Pokud by podmínkou bylo vyhledávat pouze kompletní názvy, stoupla by úplnost na 85,7 \%.
 
 Ve 21 případech se v~souboru \texttt{top10\_laptopunderbudget.txt} byl název modelu chybně označen jako delší (jedno až dvě slova). V~dalších 10 případech se opět jednalo o~neoznačení neúplného názvu. U~obou těchto chyb byl ovšem z~textu jinde extrahován i jejich celý název správně. Zcela neoznačené modely byly ve výsledku čtyři. Pokud bychom za chyby počítali pouze ty, stoupne úplnost na 95 \%.
 
