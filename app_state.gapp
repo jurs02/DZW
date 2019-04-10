@@ -239,14 +239,14 @@
               <localMap/>
             </runtimeParams>
             <resourceType>gate.creole.Transducer</resourceType>
-            <resourceName>ModelAndGPU Transducer</resourceName>
+            <resourceName>Model_GPU_CPU Transducer</resourceName>
             <initParams class="gate.util.persistence.MapPersistence">
               <mapType>gate.util.SimpleFeatureMapImpl</mapType>
               <localMap>
                 <entry>
                   <string>grammarURL</string>
                   <gate.util.persistence.PersistenceManager-RRPersistence>
-                    <uriString>$relpath$ModelAndGPU.jape</uriString>
+                    <uriString>$relpath$Model_GPU_CPU.jape</uriString>
                   </gate.util.persistence.PersistenceManager-RRPersistence>
                 </entry>
               </localMap>

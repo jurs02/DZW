@@ -47,3 +47,13 @@ Rule: GPU_AMD
 Rule: GPU_Intel
 ({Token.string==Intel} (UPPER_INITIAL)[0,2]{Token.string=~"[Gg]raphics"} (UPPER_INITIAL)[0,2]{Numchar}):gpu
 -->:gpu.GPU = {rule = "GPU_Intel",brand="Intel"}
+
+
+Phase: CPU
+Input: Token Lookup Numchar Split 
+Options: control = appelt
+
+Rule: CPU_Intel
+(({Token.string=~"[Ii]ntel"} | {Token.string=~"[Ii]ntel"} {Token.string=~"[Cc]ore"} |
+{Token.string=~"[Ii]ntel"} {Token.string=~"[A-Z][a-zA-Z]+"} {Token.string=~"[Cc]ore"}) ({Numchar})[1]):cpu
+-->:cpu.CPU = {rule = "CPU_Intel",brand="Intel"}
