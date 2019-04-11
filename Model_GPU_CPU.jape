@@ -54,7 +54,7 @@ Input: Token Lookup Numchar Split
 Options: control = appelt
 
 Rule: CPU1
-({Token.string=~"[Ii]ntel"}{Numchar})[1,3]:cpu
+({Token.string=~"[Ii]ntel"}{Numchar}):cpu
 (({Token.string=~"[Pp]rocessor"})|
 ({Token.string=="CPU"}))
 -->:cpu.CPU = {rule = "CPU1"}
