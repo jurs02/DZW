@@ -55,8 +55,7 @@ Options: control = appelt
 
 Rule: CPU1
 ({Numchar}):cpu
-(({Token.string=~"[Pp]rocessor"})|
-({Token.string=="CPU"}))
+({Token.string=~"[Pp]rocessor"})
 -->:cpu.CPU = {rule = "CPU1"}
 
 Rule: CPU_Intel
