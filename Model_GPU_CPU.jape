@@ -53,7 +53,14 @@ Phase: CPU
 Input: Token Lookup Numchar Split 
 Options: control = appelt
 
+Rule: CPU1
+({Token.string=~"[Ii]ntel"}{Numchar})[1,3]:cpu
+(({Token.string=~"[Pp]rocessor"})|
+({Token.string=="CPU"}))
+-->:cpu.CPU = {rule = "CPU1"}
+
 Rule: CPU_Intel
-(({Token.string=~"[Ii]ntel"} | {Token.string=~"[Ii]ntel"} {Token.string=~"[Cc]ore"} |
-{Token.string=~"[Ii]ntel"} {Token.string=~"[A-Z][a-zA-Z]+"} {Token.string=~"[Cc]ore"}) ({Numchar})[1]):cpu
--->:cpu.CPU = {rule = "CPU_Intel",brand="Intel"}
+((({Token.string=~"[Ii]ntel"} {Token.string=~"[Cc]ore"}) |
+({Token.string=~"[Ii]ntel"} {Token.string=~"[A-Z][a-zA-Z]+"} {Token.string=~"[Cc]ore"}) |
+({Token.string=~"[Ii]ntel"} {Token.string=~"Celeron"})) ({Numchar})[1]):cpu
+-->:cpu.CPU = {rule = "CPU_Intel"}
