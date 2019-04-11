@@ -41,7 +41,7 @@ Rule: GPU_NVIDIA
 -->:gpu.GPU = {rule = "GPU_NVIDIA",brand="NVIDIA"}
 
 Rule: GPU_AMD
-({Token.string==AMD} (UPPER_INITIAL|{Numchar})[1,2]{Numchar}):gpu
+({Token.string==AMD} ({Token.string==~"[A-Z][a-zA-Z]*", !Token.string=="Ryzen"}|{Numchar})[1,2]{Numchar}):gpu
 -->:gpu.GPU = {rule = "GPU_AMD",brand="AMD"}
 
 Rule: GPU_Intel
