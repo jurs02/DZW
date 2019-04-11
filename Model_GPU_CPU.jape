@@ -66,5 +66,5 @@ Rule: CPU_Intel
 -->:cpu.CPU = {rule = "CPU_Intel",brand="Intel"}
 
 Rule: CPU_AMD
-({Token.string==AMD} {Token.string==Ryzen}):cpu
+({Token.string==AMD} {Token.string==Ryzen}{Numchar}):cpu
 -->:cpu.CPU = {rule = "CPU_AMD",brand="AMD"}
